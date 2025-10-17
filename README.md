@@ -47,6 +47,7 @@ Incluye información sobre las interacciones y características de los clientes:
   - contact_month:	Mes del contacto
   - contact_year:	Año del contacto
   - id_	Identificador: único del registro
+
 👥 Segundo dataset: Datos del cliente
 
   - Income:	Ingreso anual del cliente
