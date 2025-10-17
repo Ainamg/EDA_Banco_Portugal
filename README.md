@@ -128,6 +128,7 @@ El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, S
   📆 Evolución temporal de la tasa de conversión por mes y año
   
 🧭 Conclusiones
+
 Tras analizar los datos, llegué a las siguientes conclusiones:
 - El perfil de cliente más propenso a contratar el depósito a plazo bancario es:
   👩‍🎓 Estudiante, con nivel educativo bajo o sin estudios,
@@ -159,6 +160,7 @@ EDA_Banco_Portugal/
 │   ├── limpieza.ipynb
 │   ├── columnas_categoricas.ipynb
 │   └── columnas_numericas.ipynb
+│   └── marketing.ipynb
 │
 ├── SRC/
 │   ├── sp_limpieza.py
