@@ -58,6 +58,7 @@ Incluye información sobre las interacciones y características de los clientes:
   - ID:	Identificador único del cliente
 
 ⚙️ Instalación y configuración
+
 El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook, dentro de Visual Studio Code.
 
   🔧 Pasos para la instalación
