@@ -131,9 +131,9 @@ El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, S
 
 Tras analizar los datos, llegué a las siguientes conclusiones:
 - El perfil de cliente más propenso a contratar el depósito a plazo bancario es:
-  👩‍🎓 Estudiante, con nivel educativo bajo o sin estudios,
-  📱 Prefiere ser contactado por teléfono móvil,
-  🗓️ Y responde favorablemente durante todo el año.
+  - 👩‍🎓 Estudiante, con nivel educativo bajo o sin estudios,
+  - 📱 Prefiere ser contactado por teléfono móvil,
+  - 🗓️ Y responde favorablemente durante todo el año.
 Estos hallazgos permiten al banco mejorar la eficiencia de sus campañas, optimizar los recursos y dirigir las estrategias hacia los segmentos de mayor conversión.
 
 💻 Tecnologías utilizadas
