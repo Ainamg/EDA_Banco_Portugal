@@ -1,19 +1,23 @@
 🏦 EDA Banco Portugal
 
 📘 Descripción del proyecto
+
 He realizado un Análisis Exploratorio de Datos (EDA) sobre las campañas de marketing directo de una institución bancaria portuguesa.
 El objetivo principal ha sido comprender el comportamiento de los clientes y los factores que influyen en la contratación de depósitos a plazo, a partir de datos reales obtenidos por el banco.
 
 🎯 Objetivos del análisis
+
 Mi propósito en este proyecto es analizar y optimizar los datos de una campaña de marketing directo para identificar:
 Los factores de éxito que impulsan la conversión.
 Las áreas de mejora para futuras campañas.
 Los segmentos de clientes más propensos a responder positivamente.
 
 💡 Valor para el negocio:
+
 Los resultados permiten maximizar el retorno de inversión (ROI), ajustar estrategias de marketing y mejorar la segmentación de clientes potenciales.
 
 📊 Descripción del conjunto de datos
+
 El dataset contiene información sobre campañas de marketing realizadas mediante llamadas telefónicas a clientes de un banco portugués.
 Está compuesto por 29 columnas distribuidas en dos archivos principales.
 
