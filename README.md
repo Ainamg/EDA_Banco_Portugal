@@ -8,9 +8,9 @@ El objetivo principal ha sido comprender el comportamiento de los clientes y los
 🎯 Objetivos del análisis
 
 Mi propósito en este proyecto es analizar y optimizar los datos de una campaña de marketing directo para identificar:
-Los factores de éxito que impulsan la conversión.
-Las áreas de mejora para futuras campañas.
-Los segmentos de clientes más propensos a responder positivamente.
+- Los factores de éxito que impulsan la conversión.
+- Las áreas de mejora para futuras campañas.
+- Los segmentos de clientes más propensos a responder positivamente.
 
 💡 Valor para el negocio:
 
