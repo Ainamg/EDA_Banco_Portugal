@@ -171,7 +171,7 @@ EDA_Banco_Portugal/
 │
 ├── requirements.txt
 └── README.md
-`
+```
 ✍️ Autor
  Aïna [GitHub Profile](https://github.com/Ainamg)
 
